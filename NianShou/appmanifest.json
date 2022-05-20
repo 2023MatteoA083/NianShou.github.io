@@ -1,0 +1,10 @@
+{
+	"name": "NianShou",
+	"short_name": "NianShou",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
